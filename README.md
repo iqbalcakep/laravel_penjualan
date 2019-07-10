@@ -10,9 +10,9 @@ Buat database bernama " db_penjualanGubukIT "
 pada bagian import, import file database didalam proyek 
 terletak di
 ```bash
-penjualanGbukIT2/Database/db_penjualanGubukIT.sql
+laravel_penjualan/Database/db_penjualanGubukIT.sql
 ```
-masuk ke CMD lalu arahkan ke bagian penjualanGbukIT2
+masuk ke CMD lalu arahkan ke bagian laravel_penjualan
 ketikkan perintah 
 ```bash
 php artisan serve
